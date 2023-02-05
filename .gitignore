@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+
+# Compiled Dynamic Libraries
+*.dll
+
+# Compiled Static Libraries
+*.lib
+
+# Executable files
+*.exe
+
+# CMake Files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# CLion-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
