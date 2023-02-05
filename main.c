@@ -1,3 +1,6 @@
+// main.c file from ChatGPT demonstrating the loading of a dynamic library
+// "Write exemplary C code which opens a dynamic library and executes a function from it using the Windows API."
+
 #include <stdio.h>
 #include <windows.h>
 

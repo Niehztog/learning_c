@@ -1,3 +1,6 @@
+# .gitignore file by ChatGPT
+# "Write an exemplary .gitignore file for a simple C project in CLion on windows and CMake."
+
 # Compiled object files
 *.o
 
